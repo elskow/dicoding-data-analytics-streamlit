@@ -11,5 +11,5 @@ or you can use venv to create a virtual environment and install the dependencies
 ## Usage and Running the Streamlit Dashboard
 To run the Streamlit dashboard, you can use the following command:
 ```
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
